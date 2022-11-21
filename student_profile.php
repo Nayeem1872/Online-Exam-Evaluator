@@ -105,7 +105,7 @@ $result = $student->getStudentById($studentId);
     </div>
 
     <!-- Exam list part Ends -->
-
+  
  
 </body>     
 
